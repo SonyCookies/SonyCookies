@@ -1,9 +1,4 @@
 <!-- Replace with your own banner or logo image (optional) -->
-# Hello, I'm Sonny! 👋
-
-<!-- Add a brief introduction about yourself -->
-I'm a passionate student exploring the world of Web Development. Welcome to my GitHub profile, where you can find some of my projects and contributions.
-
 ### Socials:
 
 <a href="https://www.linkedin.com/in/sonny-sarcia-766288231/" target="_blank">
