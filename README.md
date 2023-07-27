@@ -4,7 +4,18 @@
 <!-- Add a brief introduction about yourself -->
 I'm a passionate student exploring the world of Web Development. Welcome to my GitHub profile, where you can find some of my projects and contributions.
 
-## 🌱 Currently Learning
+### Socials:
+
+<a href="https://www.linkedin.com/in/sonny-sarcia-766288231/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-sonnysarcia-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&label=%20&color=%230077B5">
+</a>
+<a href="https://www.facebook.com/ynnos.aicras/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-sonnysarcia-blue?style=for-the-badge&logo=Facebook&logoColor=white&label=%20&color=%234267B2">
+</a>
+<a href="https://www.instagram.com/sonjizy/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-sonnysarcia-red?style=for-the-badge&logo=Instagram&logoColor=white&label=%20&color=%23F56040">
+</a>
+
 
 <!-- Share what you're currently learning or interested in -->
 I'm currently exploring ASP.NET CORE framework and eager to learn more in this field.
