@@ -11,19 +11,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-sonnysarcia-red?style=for-the-badge&logo=Instagram&logoColor=white&label=%20&color=%23F56040">
 </a>
 
-
 <!-- Share what you're currently learning or interested in -->
 I'm currently exploring ASP.NET CORE framework and eager to learn more in this field.
-
-## 📫 How to Reach Me
-
-<!-- Provide ways to contact you or find more about you -->
-You can reach me via [email](sonnypsarcia@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sonny-sarcia-766288231/).
-
-## 🚀 GitHub Stats
-
-<!-- Add GitHub stats using shields.io or similar service (optional) -->
-![GitHub followers](https://img.shields.io/github/followers/SonyCookies?label=Followers&style=social)
 
 <!--
 **SonyCookies/SonyCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
